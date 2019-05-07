@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../musicsa"
+		},
+		{
+			"path": "../tests"
+		}
+	],
+    "settings": {
+        "python.autoComplete.extraPaths": [
+            "../musicsa",
+        ],
+    }
+}
