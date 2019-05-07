@@ -1,1 +1,4 @@
-include musicsa
+include musicsa/*
+include musicsa/utils/*
+include musicsa/audio/*
+include musicsa/windows/*

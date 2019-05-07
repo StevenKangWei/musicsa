@@ -1,7 +1,13 @@
 # coding=utf-8
 
 import utils
+import windows
 
-logger = utils.get_logger()
 
-logger.debug('hello world')
+def main():
+    main_window = windows.window.MainWindow()
+    main_window.mainloop()
+
+
+if __name__ == '__main__':
+    main()
